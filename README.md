@@ -22,7 +22,7 @@ Our project is dedicated to creating a comprehensive **Madura Culinary Tourism I
 - Robust backend to support seamless data flow and API integration.
 - and many other features
 
-### Getting Started::
+### Getting Started:
 
 - **Frontend base project**
   - clone repository :https://github.com/C624-PS145/epicurean-frontend.git
