@@ -12,7 +12,7 @@ Our project is dedicated to creating a comprehensive **Madura Culinary Tourism I
 - **Frontend Website:** [wisata kuliner madura](https://kulinermadura.netlify.app/)
 - **CMS for wisatakulinermadura:** [wisata kuliner madura cms](https://kulinermaduracms.netlify.app/)
 - **Backend API & Documentation:**
-  - **API on Vercel:** [Epicurean Backend](https://epicurean-backend-umber.vercel.app/)
+  - **API on Vercel:** [API & documentation wisata Kuliner Madura](https://epicurean-backend-umber.vercel.app/)
 
 ### Features:
 - Explore various culinary delights unique to Madura.
